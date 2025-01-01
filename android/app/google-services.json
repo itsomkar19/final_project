@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119104236762",
+    "project_id": "credbud-14b00",
+    "storage_bucket": "credbud-14b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119104236762:android:a8db148998d3dcab7709e3",
+        "android_client_info": {
+          "package_name": "tech.v1ack.credbud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vV2kIUCa54-Y9Cl2_NF5Oue7BqrF-DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
